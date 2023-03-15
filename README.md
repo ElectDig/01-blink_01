@@ -12,7 +12,7 @@
     Added a switch to project 01-blink_00 to change blink frequency
     Prints on console delay in milliseconds
 
-    See docs/README.md for connections, instructions, video and photo
+    See docs/README.md for connections and instructions.
 
 
 
