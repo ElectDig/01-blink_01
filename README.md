@@ -12,9 +12,14 @@
     Added a switch to project 01-blink_00 to change blink frequency
     Prints on console delay in milliseconds
 
-    See docs/README.md for connections and instructions.
+    See doc/README.md for connections and instructions.
 
-
-
+#### Changes
+    
+    Changed code in src/main.cpp after class on March 18, 2023
+    Reason: show normal programming way and alternate programming in an efficient
+        way, showing how C permits to code n a way that ressembles assembler
+        but form an structured standpoint
+    EAM - 03-19-2023
     
 
